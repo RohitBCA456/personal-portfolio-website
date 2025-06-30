@@ -1,6 +1,6 @@
 // Initialize EmailJS
 (function () {
-  emailjs.init("your_key");
+  emailjs.init("your_public_key");
 })();
 
 document
